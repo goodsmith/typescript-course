@@ -1,0 +1,10 @@
+{
+  "name": "@matbueno/typescript-course",
+  "version": "0.0.1",
+  "description": "A course to teach TypeScript 13 basics and some advanced features",
+  "main": "src/index.ts",
+  "repository": "https://github.com/goodsmith/typescript-course",
+  "author": "Matt (@goodsmith)",
+  "license": "MIT",
+  "private": false
+}
